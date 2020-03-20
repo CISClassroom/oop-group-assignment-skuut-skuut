@@ -323,9 +323,9 @@ public class Coffee extends javax.swing.JFrame {
         getContentPane().add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(873, 604, 101, 32));
 
         jLabel26.setBackground(new java.awt.Color(255, 255, 255));
-        jLabel26.setFont(new java.awt.Font("Bookman Old Style", 1, 24)); // NOI18N
+        jLabel26.setFont(new java.awt.Font("Bookman Old Style", 1, 39)); // NOI18N
         jLabel26.setText("FTM Coffee Cafe");
-        getContentPane().add(jLabel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(890, 342, 217, 40));
+        getContentPane().add(jLabel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 350, 340, 40));
 
         jLabel27.setIcon(new javax.swing.ImageIcon("D:\\รูป\\8811AB3A7BC7414A9325F4DDA32FA7FE.jpg")); // NOI18N
         jLabel27.setText("jLabel27");
